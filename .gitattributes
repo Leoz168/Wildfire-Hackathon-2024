@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+hotspots/m3_hotspots2.dbf filter=lfs diff=lfs merge=lfs -text
